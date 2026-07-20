@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
 <h1 align="center">Hi, I'm Federico Momesso <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ### ⭐ About me
@@ -20,3 +23,12 @@ I am an IT technician, currently expanding my knowledge in both frontend and bac
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fede.momesso)
 [![TikTok](https://img.shields.io/badge/tiktok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@fedemomesso)
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@federicomomesso1763)
+
+### 🔗 &nbsp;Contact Me
+
+<div align="center">
+<a href="mailto:mome3219@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/federico-momesso-233b81298/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://t.me/Fedemomeeso"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+</div>
