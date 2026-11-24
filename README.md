@@ -1,7 +1,7 @@
 # Federico Momesso
 
 Diseño y programo **sitios web, landing pages y catálogos online** para emprendimientos y comercios.
-Webs rápidas, que se ven bien en el celular y llevan al cliente a pedir presupuesto o comprar por WhatsApp.
+Webs rápidas y complejas, que se ven bien en el celular y llevan al cliente a pedir presupuesto o comprar por WhatsApp.
 
 Técnico en informática · **FM estudio**
 
