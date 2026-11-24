@@ -1,4 +1,4 @@
-# Federico Momesso
+﻿# Federico Momesso
 
 Diseño y programo **sitios web, landing pages y catálogos online** para emprendimientos y comercios.
 Webs rápidas y complejas, que se ven bien en el celular y llevan al cliente a pedir presupuesto o comprar por WhatsApp.
@@ -14,7 +14,7 @@ Técnico en informática · **FM estudio**
 | **Dpar Diseños** | Web de una carpintería de muebles a medida: catálogo de trabajos, galería de fotos y pedido de presupuesto por WhatsApp. | [dpar.pages.dev](https://dpar.pages.dev) · [código](https://github.com/federicomomesso/dpar-disenos) |
 | **Catálogo de botines** | Catálogo online de 191 productos con filtros por cancha, talla y marca. El cliente elige su talla y el pedido llega por WhatsApp. | [ver sitio](https://catalogo-de-botines-ar.netlify.app) · [código](https://github.com/federicomomesso/catalogo-de-botines) |
 | **bQe** | Landing de un boliche frente al mar: calendario de noches, venta de entradas por sector y plano 3D para elegir mesa. | [bqe.pages.dev](https://bqe.pages.dev) · [código](https://github.com/federicomomesso/bQe-2027) |
-| **FM estudio** | Mi propia web: una pieza 3D que se arma a medida que bajás la página. Three.js, GSAP y Lenis. | [código](https://github.com/federicomomesso/fm-estudio) |
+| **FM estudio** | Mi propia web: una pieza 3D que se arma a medida que bajás la página. Three.js, GSAP y Lenis. | [ver sitio](https://fm-estudio.trono.workers.dev) · [código](https://github.com/federicomomesso/fm-estudio) |
 
 ## Qué hago
 
