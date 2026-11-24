@@ -1,34 +1,45 @@
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-</p>
-<h1 align="center">Hi, I'm Federico Momesso <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# Federico Momesso
 
-### ⭐ About me
+Diseño y programo **sitios web, landing pages y catálogos online** para emprendimientos y comercios.
+Webs rápidas, que se ven bien en el celular y llevan al cliente a pedir presupuesto o comprar por WhatsApp.
 
-I am an IT technician, currently expanding my knowledge in both frontend and backend development. I'm exploring the power of React while getting seduced by the mysteries of the backend with MySQL and JSON. I love learning and building new things, bridging frontend flair with backend brains.
+Técnico en informática · **FM estudio**
 
-### 🛠️ Tech Stack
+---
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+## Trabajos
 
-### 🌐 Social
+| Proyecto | Qué es | Ver |
+|---|---|---|
+| **Dpar Diseños** | Web de una carpintería de muebles a medida: catálogo de trabajos, galería de fotos y pedido de presupuesto por WhatsApp. | [dpar.pages.dev](https://dpar.pages.dev) · [código](https://github.com/federicomomesso/dpar-disenos) |
+| **Catálogo de botines** | Catálogo online de 191 productos con filtros por cancha, talla y marca. El cliente elige su talla y el pedido llega por WhatsApp. | [ver sitio](https://catalogo-de-botines-ar.netlify.app) · [código](https://github.com/federicomomesso/catalogo-de-botines) |
+| **bQe** | Landing de un boliche frente al mar: calendario de noches, venta de entradas por sector y plano 3D para elegir mesa. | [bqe.pages.dev](https://bqe.pages.dev) · [código](https://github.com/federicomomesso/bQe-2027) |
+| **FM estudio** | Mi propia web: una pieza 3D que se arma a medida que bajás la página. Three.js, GSAP y Lenis. | [código](https://github.com/federicomomesso/fm-estudio) |
 
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fede.momesso)
-[![TikTok](https://img.shields.io/badge/tiktok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@fedemomesso)
-[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@federicomomesso1763)
+## Qué hago
 
-### 🔗 &nbsp;Contact Me
+- **Landing pages** para presentar un negocio y conseguir contactos.
+- **Catálogos con pedido por WhatsApp** para locales que venden por redes.
+- **Webs completas** para empresas y comercios.
+- **Tiendas online** con carrito y pagos.
+- Publicación, dominio, SEO básico y mantenimiento.
 
-<div align="center">
-<a href="mailto:mome3219@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/federico-momesso-233b81298/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://t.me/Fedemomeeso"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-</div>
+## Herramientas
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-0AE448?style=flat-square&logo=greensock&logoColor=black)
+![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+## Contacto
+
+¿Necesitás una web o una landing para tu negocio? Escribime.
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mome3219@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-momesso-233b81298/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/fede.momesso)
